@@ -1,0 +1,11 @@
+requirements
+This file contains a list of all Python packages and dependencies required to run the project. This ensures that the project environment can be replicated easily.
+Example:
+makefile
+Copy code
+numpy==1.23.5
+tensorflow==2.13.0
+opencv-python==4.8.0
+Pillow==9.4.0
+matplotlib==3.7.0
+tk==0.1.0
