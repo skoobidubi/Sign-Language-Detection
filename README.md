@@ -1,6 +1,6 @@
 # Sign-Language-Detection
 use this model to decode the meaning of sign languages 
-data source- UTK face (https://www.kaggle.com/datasets/jangedoo/utkface-new)
+data source- UTK face (https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
 upload the picture of sign language in the model to get the meaning 
 it's a very user friendly GUI
 let's start with the codes
